@@ -1,0 +1,31 @@
+# Scan Outputs
+
+output/
+results/
+scan-results/
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.bak
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Generated Target Folders
+
+*.com/
+*.net/
+*.org/
+*.io/
