@@ -61,7 +61,7 @@ banner () {
     cat <<'EOF'
 =====================================================
              ADV-RECON
-      Advanced Bug Bounty Recon & Scan Framework
+      Advanced Bug Bounty Recon & Scan Framework By Pancham Patil
 =====================================================
 EOF
 }
